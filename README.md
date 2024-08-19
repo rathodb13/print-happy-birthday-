@@ -1,3 +1,3 @@
 # print-happy-birthday-
 This is my Git repository .
-Auther ~ Bhumika rathod 
+Author ~ Bhumika rathod 
